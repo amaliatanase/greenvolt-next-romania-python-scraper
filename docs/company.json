@@ -1,0 +1,17 @@
+{
+  "id": "48838800",
+  "company": "GREENVOLT NEXT ROMANIA S.A.",
+  "brand": "Greenvolt Next Romania",
+  "status": "activ",
+  "location": [
+    "București"
+  ],
+  "website": [
+    "https://next.greenvolt.com/ro/"
+  ],
+  "career": [
+    "https://apply.workable.com/greenvolt/"
+  ],
+  "scraperFile": "https://github.com/amaliatanase/greenvolt-next-romania-python-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://apply.workable.com/"
+}

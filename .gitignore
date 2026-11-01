@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.local
+tmp/
+jobs.json
+company_data.json
+.coverage
+htmlcov/
+
+# Local company validation cache
+/company.json
