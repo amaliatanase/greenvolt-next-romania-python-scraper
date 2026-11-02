@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD ION IONESCU DE LA BRAD, NR.2B, ET.4 |
 | Website | [https://next.greenvolt.com/ro/](https://next.greenvolt.com/ro/) |
 | Careers | [https://apply.workable.com/greenvolt/](https://apply.workable.com/greenvolt/) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
 ## Current Job Listings (1)
 
-_Generated: 2026-11-01T12:38:51.966931+00:00_
+_Generated: 2026-11-02T15:00:50.300003+00:00_
 
 ### Commercial B2B
 
