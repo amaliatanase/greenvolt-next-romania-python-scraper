@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD ION IONESCU DE LA BRAD, NR.2B, ET.4 |
 | Website | [https://next.greenvolt.com/ro/](https://next.greenvolt.com/ro/) |
 | Careers | [https://apply.workable.com/greenvolt/](https://apply.workable.com/greenvolt/) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
 ## Current Job Listings (1)
 
-_Generated: 2026-11-19T15:25:10.842248+00:00_
+_Generated: 2026-11-20T15:00:59.131876+00:00_
 
 ### Sales Manager (Solar PV)
 
